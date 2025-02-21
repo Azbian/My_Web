@@ -1,0 +1,3 @@
+# My Portfolio Website (Draft Version)
+
+This is a draft version of my personal portfolio website showcasing my skills and experience.  It's based on the "Kelly" template (or specify the template name if you know it) downloaded from [ThemeWagon](themewagon.com). I've customized the template to align with my individual requirements and design preferences.  This is a work in progress, and I expect to make further refinements and additions in future versions.
